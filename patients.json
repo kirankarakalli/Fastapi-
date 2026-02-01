@@ -48,5 +48,25 @@
         "weight": 75,
         "bmi": 31.22,
         "verdict": "Obese"
+    },
+    "P0015": {
+        "name": "kiran",
+        "city": "Bengaluru",
+        "age": 24,
+        "gender": "male",
+        "height": 1.76,
+        "weight": 74.0,
+        "bmi": 23.89,
+        "verdict": "Normal"
+    },
+    "P0016": {
+        "name": "Arun",
+        "city": "Bengaluru",
+        "age": 24,
+        "gender": "male",
+        "height": 1.76,
+        "weight": 74.0,
+        "bmi": 23.89,
+        "verdict": "Normal"
     }
 }
